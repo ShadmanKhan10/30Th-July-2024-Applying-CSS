@@ -6,6 +6,7 @@
   grid-template-rows: repeat(3, 100px);
   grid-template-columns: repeat(3, 100px);
   grid-gap: 20px;
+  justify-content: space-around;
 }
 
 .item1 {
